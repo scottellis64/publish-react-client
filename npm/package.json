@@ -1,0 +1,13 @@
+{
+   "name": "publish-react-client",
+   "version": "0.1.0",
+   "main": "index.js",
+   "module": "index.js",
+   "publishConfig": {
+      "access": "public"
+   },
+   "peerDependencies": {
+      "react": "^16.12.0",
+      "react-dom": "^16.12.0"
+   }
+}
