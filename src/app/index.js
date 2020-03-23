@@ -39,7 +39,7 @@ const qbsColumns = [
          91: 'Chicago',
          92: 'Dallas',
          93: 'Campbell',
-         94: 'Cincinatti',
+         94: 'Cincinnati',
          95: 'Mesa',
          89: 'San Rafael'
       }
